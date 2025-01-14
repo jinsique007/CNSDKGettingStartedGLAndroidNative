@@ -1,0 +1,36 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.2.0' apply false
+    id 'com.android.library' version '7.2.0' apply false
+}
+
+project.ext {
+    cnsdkArchive = "cnsdk-android-${project.cnsdkVersion}.zip"
+
+    cnsdkArchiveFile = new File(cnsdkArchive)
+    if (!cnsdkArchiveFile.exists()) {
+        println("Download CNSDK archive...")
+        def cnsdkUrl = "https://github.com/LeiaInc/leiainc.github.io/raw/master/CNSDK/cnsdk-android-${project.cnsdkVersion}.zip"
+        new URL(cnsdkUrl).withInputStream{ i -> cnsdkArchiveFile.withOutputStream{ it << i }}
+        println("Downloaded CNSDK archive")
+    } else {
+        println("CNSDK archive is already downloaded")
+    }
+
+    cnsdkPath = (new File(project.buildDir, "cnsdk-android-${project.cnsdkVersion}")).path
+    println("cnsdkPath: ${cnsdkPath}")
+
+    copy {
+        from zipTree(cnsdkArchive)
+        include '*/android/**/*'
+        include '*/include/**/*'
+        include '*/lib/**/*'
+        include '*/share/**/*'
+        into project.buildDir
+    }
+    cnsdkAar = "${cnsdkPath}/android/sdk-faceTrackingService-${project.cnsdkVersion}.aar"
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

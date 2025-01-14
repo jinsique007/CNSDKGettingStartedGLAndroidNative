@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirmation_button_negative">暂不启用3D模式</string>
+    <string name="confirmation_button_negative_close_app">停用并关闭应用</string>
+    <string name="confirmation_button_positive">启用面部追踪</string>
+    <string formatted="true" name="confirmation_extra_explanation">需要这项服务才能在您的\n%1$s上启用Leia的3D应用。</string>
+    <string name="confirmation_message_end">Leia FaceTracking服务。</string>
+    <string name="confirmation_message_part_2">(此服务会使用您的相机)</string>
+    <string formatted="true" name="confirmation_message_start">您的%1$s·AI体验需要</string>
+    <string name="confirmation_title">启用Leia FaceTracking</string>
+</resources>

@@ -1,0 +1,7 @@
+com.leia.cnsdkgettingstartedglandroidnative.test.app-androidTest-0 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\build\generated\res\resValues\androidTest\debug
+com.leia.cnsdkgettingstartedglandroidnative.test.app-androidTest-1 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\build\generated\res\rs\androidTest\debug
+com.leia.cnsdkgettingstartedglandroidnative.test.app-mergeDebugAndroidTestResources-2 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.leia.cnsdkgettingstartedglandroidnative.test.app-mergeDebugAndroidTestResources-3 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.leia.cnsdkgettingstartedglandroidnative.test.app-merged_res-4 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\build\intermediates\merged_res\debugAndroidTest
+com.leia.cnsdkgettingstartedglandroidnative.test.app-androidTest-5 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\src\androidTest\res
+com.leia.cnsdkgettingstartedglandroidnative.test.app-androidTestDebug-6 D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\src\androidTestDebug\res

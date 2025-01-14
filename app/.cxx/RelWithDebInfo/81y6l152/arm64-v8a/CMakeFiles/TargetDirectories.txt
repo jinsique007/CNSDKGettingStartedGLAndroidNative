@@ -1,0 +1,3 @@
+D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/.cxx/RelWithDebInfo/81y6l152/arm64-v8a/CMakeFiles/cnsdkgettingstartedglandroidnative.dir
+D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/.cxx/RelWithDebInfo/81y6l152/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/.cxx/RelWithDebInfo/81y6l152/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/.cxx/RelWithDebInfo/81y6l152/arm64-v8a",
+  "command": "D:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android30 --sysroot=D:/AndroidFiles/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcnsdkgettingstartedglandroidnative_EXPORTS -isystem D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/build/cnsdk-android-0.7.28/include -isystem D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/build/cnsdk-android-0.7.28/include/third_party -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\cnsdkgettingstartedglandroidnative.dir\\native-lib.cpp.o -c D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

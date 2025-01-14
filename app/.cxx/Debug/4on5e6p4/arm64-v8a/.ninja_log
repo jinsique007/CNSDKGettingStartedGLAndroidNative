@@ -1,0 +1,7 @@
+# ninja log v5
+1	130	7585418845669652	build.ninja	8ef7abbaa3c64df5
+1	916	7585407929458085	CMakeFiles/cnsdkgettingstartedglandroidnative.dir/native-lib.cpp.o	60bc8e717f51f47f
+917	1142	7585407931520653	D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/build/intermediates/cxx/Debug/4on5e6p4/obj/arm64-v8a/libcnsdkgettingstartedglandroidnative.so	478c694863ec5161
+0	128	7585418845669652	build.ninja	8ef7abbaa3c64df5
+2	557	7585418851427880	CMakeFiles/cnsdkgettingstartedglandroidnative.dir/native-lib.cpp.o	60bc8e717f51f47f
+557	723	7585418853038178	D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/build/intermediates/cxx/Debug/4on5e6p4/obj/arm64-v8a/libcnsdkgettingstartedglandroidnative.so	478c694863ec5161

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cnsdkgettingstartedglandroidnative",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cnsdkgettingstartedglandroidnative::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cnsdkgettingstartedglandroidnative-Debug-2fffb7b192aa4e9059b4.json",
+					"name" : "cnsdkgettingstartedglandroidnative",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/.cxx/Debug/4on5e6p4/arm64-v8a",
+		"source" : "D:/AndrodProjects/CNSDKGettingStartedGLAndroidNative-main/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,7 @@
+Executable : D:\AndroidFiles\sdk\cmake\3.22.1\bin\ninja.exe
+arguments : 
+-C
+D:\AndrodProjects\CNSDKGettingStartedGLAndroidNative-main\app\.cxx\Debug\4on5e6p4\arm64-v8a
+cnsdkgettingstartedglandroidnative
+jvmArgs : 
+

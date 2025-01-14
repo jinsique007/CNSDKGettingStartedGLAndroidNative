@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 30 min SDK version: arm64-v8a",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 83647304
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1574765793
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -35768353
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1285789533
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -932771348
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\u0027",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -363892593
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : D:\\AndroidFiles\\sdk\\cmake\\3.22.1\\bin\\cmake.exe\narguments : \n-HD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\n-DCMAKE_ANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\AndroidFiles\\sdk\\cmake\\3.22.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\81y6l152\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\81y6l152\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\n-GNinja\n-DCMAKE_PREFIX_PATH\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\build\\cnsdk-android-0.7.28\n-DCMAKE_FIND_ROOT_PATH_MODE_PACKAGE\u003dBOTH\njvmArgs : \n\n",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1862573989
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : D:\\AndroidFiles\\sdk\\cmake\\3.22.1\\bin\\cmake.exe\narguments : \n-HD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d30\n-DANDROID_PLATFORM\u003dandroid-30\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\n-DCMAKE_ANDROID_NDK\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\AndroidFiles\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\AndroidFiles\\sdk\\cmake\\3.22.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\81y6l152\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\81y6l152\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\n-GNinja\n-DCMAKE_PREFIX_PATH\u003dD:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\build\\cnsdk-android-0.7.28\n-DCMAKE_FIND_ROOT_PATH_MODE_PACKAGE\u003dBOTH\njvmArgs : \n\n",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 427050556
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 376502085
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1245117599
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\.cxx\\RelWithDebInfo\\81y6l152\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 882768747
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\AndrodProjects\\CNSDKGettingStartedGLAndroidNative-main\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 692955485
+  }
+]
